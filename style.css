@@ -38,7 +38,7 @@ body{
     background: rgba(0, 0, 0, 0.5);
 }
 /*Changes on Headline*/
-div.col-md-10.text-center{
+div.col-md-12.text-center{
     position: relative;
     top: 20pc;
 }
