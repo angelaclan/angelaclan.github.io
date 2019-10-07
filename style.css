@@ -58,6 +58,10 @@ div.col-md-10.text-center{
     padding: 5em 0;
 }
 /*about me*/
+div .col-lg-7.pr-lg-5.mb-5.mb-lg-0 img{
+    border-radius: 50%
+}
+
 div.col-lg-5.pl-lg-5{
     line-height: 1.7;
 }
