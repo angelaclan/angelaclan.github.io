@@ -55,7 +55,7 @@ div.col-md-10.text-center{
 }
 
 .site-section {
-    padding: 5em 0;
+    padding: 3em 0;
 }
 /*about me*/
 div .col-lg-7.pr-lg-5.mb-5.mb-lg-0 img{
@@ -97,8 +97,17 @@ img.skill{
     white-space: nowrap;
     background-color: #003777;
     transition: width .6s ease;
+}    
 
+/*portfolio*/
 
+.portfolio{
+    height: 300px;
+    width: 350px;
+    
+    padding: 5px;
+    
+}
 
 
 /*resume*/
@@ -109,3 +118,4 @@ img.skill{
     -o-transition: .3s all ease;
     transition: .3s all ease;
     border: 4px solid transparent;
+}    
